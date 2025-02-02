@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/taleLayoutl"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+
+    <TableRow
+        android:id="@+id/tableRowl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textViewl"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="User Name"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/editText1"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Password"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <EditText
+            android:id="@+id/editText2"
+            android:layout_width="200px"
+            android:layout_height="wrap_content" >
+            <requestFocus/>
+        </EditText>
+    </TableRow>
+</TableLayout>
+
+<TableRow 
+    android:id="@+id/tableRow3" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" > 
+    
+    <CheckBox 
+        android:id="@+id/checkBox1" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:text="admin" /> 
+    
+    <RadioButton 
+        android:id="@+id/radioButton1" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:text="user" /> 
+    
+</TableRow> 
+
+<Button 
+    android:id="@+id/button1" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:text="login" /> 
+
+</TableLayout>
