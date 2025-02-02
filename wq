@@ -1,0 +1,57 @@
+[33mcommit 277d5903600311d0a73ddb6848b378befe6eb42d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature[m[33m)[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:43:28 2025 +0530
+
+    FEATURER modified
+
+[33mcommit f25f8e4d5890d8c8f64fed8a1696d061e1e1f2b7[m[33m ([m[1;32mmaster[m[33m)[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:38:05 2025 +0530
+
+    MASTER modified
+
+[33mcommit a54b63111222cd96f8ed0764a2086a5bfee5aa48[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 56e7025 e90401e
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:32:36 2025 +0530
+
+    WIP on feature: 56e7025 Merge branch feature'
+
+[33mcommit e90401e2de19ff3c777b4be0c92b7c022592f780[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:32:36 2025 +0530
+
+    index on feature: 56e7025 Merge branch feature'
+
+[33mcommit 56e7025fb83382b138356167949bd88b58d4dfad[m
+Merge: 90ef578 f551b49
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:14:02 2025 +0530
+
+    Merge branch feature'
+    
+    merging feature to Master branch
+
+[33mcommit f551b4927c4ab7f54ee431c389342660ce72eb0b[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:11:42 2025 +0530
+
+    bs
+
+[33mcommit 90ef5784d6a871f447230c7f607eae73c1a652f6[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:09:25 2025 +0530
+
+    added db,loginPage,MASTER
+
+[33mcommit 9a3aa655c2c66624cd23ee292c3a79e194174ce2[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 11:01:53 2025 +0530
+
+    feature first commit
+
+[33mcommit e43aefe1244abd6587e3629dcd448538d532f87d[m
+Author: themaxpa <alwinea69@gmail.com>
+Date:   Sun Feb 2 10:58:33 2025 +0530
+
+    initial commit

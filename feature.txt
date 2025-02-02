@@ -1,3 +1,6 @@
 can we meet tommorow
 
+<<<<<<< HEAD
 no i cant ;;
+yes we can meet ;)
+>>>>>>> feature
